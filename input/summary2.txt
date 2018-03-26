@@ -1,0 +1,13 @@
+The phone, which uses the Google-developed Android operating system, is sold by T-Mobile in the UK under the name "G1".
+Texting bug hits the Google phone.
+A text conversation has revealed a big problem with the G1 mobile phone - powered by Google's Android software.
+Google has fixed the problem in an update to the phone software that will be automatically installed on users' phones.
+The newly discovered bug causes the phone to restart when owners type in the word "reboot" soon after starting up the device.
+Google hurried to repair the problem, which causes the phone to interpret any text entered just after the phone was turned on as a command.
+Google has rushed out a fix for the bug which will soon be available in the UK.
+The bug was discovered when an owner of the phone typed the word "reboot" into a text message after restarting the phone.
+The bug was discovered accidentally by a G1 owner.
+Users in the US already report receiving the update, and Google told the BBC that users in the UK should receive it by 12 November.
+"I was in the middle of a text conversation with my girl when she asked why I hadn't responded," said a user called jdhorvat in the description of his discovery that was posted to Google's problem reporting website.
+"I had just rebooted my phone and the first thing I typed was a response to her text which simply stated "Reboot" - which, to my surprise, rebooted my phone."
+"We've been notified of this issue and have developed a fix," said a Google spokesperson in a statement.
